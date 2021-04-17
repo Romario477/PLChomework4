@@ -1,0 +1,27 @@
+#@comment
+@Romario=3;
+@romario=5
+@Romario=1;
+
+sub Function{ vefk #coment
+ blah blah blah
+}
+"@string"
+"#another string"
+"%ANOTHER string"
+my %countries=qw(
+United States
+Brazil
+Canada
+);
+my %countries=qw(
+United States
+Brazil
+Canada
+);
+my %otherCountries=qw(
+United States
+Brazil
+Canada
+);
+%beautiful coding;
